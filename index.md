@@ -4,8 +4,8 @@
 
 ### My Creative Works
 
-[Project 1 Title]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title: Blend Images]
+<img src="images/blendimages.png?raw=true"/>
 
 ---
 [Project 2 Title]
